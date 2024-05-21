@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="example" targetName="example" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09f8390f-48ee-4bd6-a3e0-a0bdafa51f02" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectId" id="2DvVvtHfgcQMTcnvmvy0BABbtsp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="example" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="example" TARGET_NAME="example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="example" RUN_TARGET_NAME="example">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09f8390f-48ee-4bd6-a3e0-a0bdafa51f02" name="Changes" comment="" />
+      <created>1661579780870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661579780870</updated>
+      <workItem from="1661579783249" duration="93000" />
+      <workItem from="1661579882222" duration="4683000" />
+      <workItem from="1661860520386" duration="34000" />
+      <workItem from="1661944925978" duration="7643000" />
+      <workItem from="1662012645593" duration="565000" />
+      <workItem from="1662030005235" duration="595000" />
+      <workItem from="1662170554132" duration="3491000" />
+      <workItem from="1662191722050" duration="6264000" />
+      <workItem from="1662211794046" duration="472000" />
+      <workItem from="1662214792901" duration="2295000" />
+      <workItem from="1662275262798" duration="6717000" />
+      <workItem from="1662355479813" duration="31000" />
+      <workItem from="1662549916902" duration="4995000" />
+      <workItem from="1662557307262" duration="5232000" />
+      <workItem from="1662693848134" duration="21636000" />
+      <workItem from="1662952308016" duration="3221000" />
+      <workItem from="1663080702267" duration="105000" />
+      <workItem from="1663473812639" duration="152000" />
+      <workItem from="1663595617171" duration="5517000" />
+      <workItem from="1663677016323" duration="872000" />
+      <workItem from="1663681914343" duration="2920000" />
+      <workItem from="1663830192122" duration="2222000" />
+      <workItem from="1664038917722" duration="236000" />
+      <workItem from="1664337955209" duration="2326000" />
+      <workItem from="1665383268543" duration="4737000" />
+      <workItem from="1666966704701" duration="337000" />
+      <workItem from="1683784029804" duration="143000" />
+      <workItem from="1697607280928" duration="36000" />
+      <workItem from="1709195878611" duration="66000" />
+      <workItem from="1711767989183" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

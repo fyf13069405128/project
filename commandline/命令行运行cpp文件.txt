@@ -1,0 +1,17 @@
+编译：
+用g++ 加上文件名，注意要加上文件扩展名，这样会生成一个a.exe的可执行文件
+（Windows默认生成a.exe，Linux默认生成a.out）
+
+g++ -o exe文件名 cpp源文件
+例如：g++ -o helloworld.exe helloworld.cpp
+
+运行：
+exe文件名 +回车
+例如：helloworld.exe +回车
+
+
+
+连续多个输入：ctrl + z  终止输入
+
+从文件输入以及输出到指定文件
+例如 demo.exe <input.txt> output.txt

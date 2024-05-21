@@ -1,0 +1,3 @@
+F:/project/exam/shopee/cmake-build-debug/CMakeFiles/shopee.dir
+F:/project/exam/shopee/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/project/exam/shopee/cmake-build-debug/CMakeFiles/rebuild_cache.dir
